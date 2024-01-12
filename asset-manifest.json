@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Code-Master/static/css/main.5f0c87b7.css",
+    "main.js": "/Code-Master/static/js/main.92ac0cc0.js",
+    "static/js/787.4440db6e.chunk.js": "/Code-Master/static/js/787.4440db6e.chunk.js",
+    "static/media/background.jpg": "/Code-Master/static/media/background.709d33d30d0cb9f244c2.jpg",
+    "index.html": "/Code-Master/index.html",
+    "main.5f0c87b7.css.map": "/Code-Master/static/css/main.5f0c87b7.css.map",
+    "main.92ac0cc0.js.map": "/Code-Master/static/js/main.92ac0cc0.js.map",
+    "787.4440db6e.chunk.js.map": "/Code-Master/static/js/787.4440db6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f0c87b7.css",
+    "static/js/main.92ac0cc0.js"
+  ]
+}
