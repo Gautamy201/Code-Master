@@ -1,0 +1,22 @@
+.footer{
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2rem 9%;
+    background: var(--bg-color);
+    border-top: 5px solid var(--second-bg-color);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.footer-text p{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.footer-text p strong{
+    color: var(--main-color);
+}
